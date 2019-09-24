@@ -48,6 +48,7 @@ namespace forExperiments
             ulong number = 227900000;
             Console.WriteLine($"\n\tИмя константы со значением { number} из указанного перечисления.\n");
             Console.WriteLine(Enum.GetName(typeof(DistanceSun), number));
+            Console.WriteLine(Enum.GetName(typeof(DistanceSun), number));
         }
     }    
 }
