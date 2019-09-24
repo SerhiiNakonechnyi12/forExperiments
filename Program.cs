@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace forExperiments
-{    
+{
     static void Main(string[] args)
     { 
         enum DistanceSun : ulong
@@ -17,6 +17,8 @@ namespace forExperiments
             Uranus = 2870000000, Neptune = 4496000000,
             Pluto = 5946000000
         }
+    }
+}
     class Program
     {
         static void Main(string[] args)
