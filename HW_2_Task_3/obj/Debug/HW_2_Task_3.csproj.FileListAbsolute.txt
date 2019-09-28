@@ -1,0 +1,7 @@
+E:\Learning Projects\MyProjectsByStep\C#\HW_2_Task_3\obj\Debug\HW_2_Task_3.csprojAssemblyReference.cache
+E:\Learning Projects\MyProjectsByStep\C#\HW_2_Task_3\obj\Debug\HW_2_Task_3.csproj.CoreCompileInputs.cache
+E:\Learning Projects\MyProjectsByStep\C#\HW_2_Task_3\bin\Debug\HW_2_Task_3.exe.config
+E:\Learning Projects\MyProjectsByStep\C#\HW_2_Task_3\bin\Debug\HW_2_Task_3.exe
+E:\Learning Projects\MyProjectsByStep\C#\HW_2_Task_3\bin\Debug\HW_2_Task_3.pdb
+E:\Learning Projects\MyProjectsByStep\C#\HW_2_Task_3\obj\Debug\HW_2_Task_3.exe
+E:\Learning Projects\MyProjectsByStep\C#\HW_2_Task_3\obj\Debug\HW_2_Task_3.pdb
